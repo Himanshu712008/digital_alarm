@@ -1,4 +1,4 @@
-# ----------------------Alarm with almrm-sound program---------------------------
+# ----------------------Digital alarm clock---------------------------
 
 # importing required libraries
 import time
@@ -12,7 +12,7 @@ def main():
     alarm_time = input("Enter alarm time(HH:MM:SS) : ")
     print(f"Alarm is set for : {alarm_time}")
     
-    sound = "Mukbang - The Soundlings.mp3"
+    sound = "alarm.mp3"
     
     while True:
 

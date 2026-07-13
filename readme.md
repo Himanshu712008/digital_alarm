@@ -30,13 +30,13 @@ digital-alarm-clock/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Himanshu712008/digital-alarm-clock.git
+git clone https://github.com/Himanshu712008/digital_alarm.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd digital-alarm-clock
+cd digital_alarm
 ```
 
 3. Install the required package:
